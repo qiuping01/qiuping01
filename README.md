@@ -6,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=qiuping01&show_icons=true&theme=gradient&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
 
-![qiuping01's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qiuping01\&layout=compact&theme=radical)
+![leikooo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qiuping01\&layout=compact&theme=radical)
 
 ## Languages and Tools
 
